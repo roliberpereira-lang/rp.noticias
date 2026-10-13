@@ -1,0 +1,20 @@
+PONTO PÚBLICO — SITE INICIAL
+
+Arquivos:
+- index.html: site responsivo em um único arquivo.
+
+COMO PUBLICAR GRATUITAMENTE NO GITHUB PAGES:
+1. Crie uma conta em https://github.com/
+2. Crie um repositório público chamado ponto-publico (ou outro nome).
+3. Envie o arquivo index.html para o repositório (Add file > Upload files > Commit changes).
+4. Abra Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch.
+6. Escolha a branch main e a pasta /(root), depois Save.
+7. Aguarde a publicação; o GitHub mostrará o endereço do site na seção Pages.
+
+ANTES DE PUBLICAR:
+- Troque o nome Ponto Público se quiser.
+- Acrescente seu contato.
+- Os cartões de conteúdo são exemplos/guias iniciais, não notícias atuais. Revise e atualize os textos.
+- Para publicar notícias, confirme os fatos e acrescente fontes e datas.
+- Não é necessário pagar por domínio; o endereço gratuito do GitHub Pages costuma terminar em github.io.
